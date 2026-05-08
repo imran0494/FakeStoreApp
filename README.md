@@ -48,7 +48,7 @@ cd FakeStoreApp
 npm install
 
 # 4. Start the development server
-npx expo start
+npx expo start -c
 ```
 
 ### Running the App
