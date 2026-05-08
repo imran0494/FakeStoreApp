@@ -1,6 +1,6 @@
 # FakeStore App 🛍️
 
-A React Native e-commerce app built with Expo, Redux Toolkit, and React Navigation. Users can browse products, view details, and manage authentication with secure token storage.
+A React Native e-commerce app built with Expo, Redux Toolkit, and React Navigation. Users can browse products, view details, and manage authentication with secure token storage. 
 
 ---
 
