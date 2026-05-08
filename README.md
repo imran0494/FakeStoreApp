@@ -213,4 +213,4 @@ Logout → Tokens cleared → Back to Login Screen
 
 **Mohammad Imran**  
 React Native Developer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/imran0494) · [LinkedIn](https://www.linkedin.com/in/mohammad-imran-925782230/)
