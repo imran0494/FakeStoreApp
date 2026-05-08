@@ -97,8 +97,7 @@ FakeStoreApp/
 │   │   └── ProductDetailScreen.jsx # Single product detail view
 │   │
 │   ├── components/
-│   │   ├── ProductCard.jsx        # Reusable product card for grid
-│   │   └── Loader.jsx             # Reusable loading spinner
+│   │   └── ProductCard.jsx        # Reusable product card for grid
 │   │
 │   └── utils/
 │       └── tokenStorage.js        # SecureStore save/get/delete helpers
